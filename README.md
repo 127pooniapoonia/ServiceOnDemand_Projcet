@@ -24,11 +24,10 @@ HTMl , CSS, BOOTSTRAP, TYPESCRIPT<br/>
 
 
 # SCREENSHOTS
-![screenshot 251](https://cloud.githubusercontent.com/assets/16289294/25417848/d2eee05c-2a0c-11e7-9a28-17037391e27e.png)
-![screenshot 252](https://cloud.githubusercontent.com/assets/16289294/25417847/d2ecbcbe-2a0c-11e7-948b-cbfd8cef9054.png)
-![screenshot 254](https://cloud.githubusercontent.com/assets/16289294/25417845/d2eb9a46-2a0c-11e7-9ccc-eabdff82953e.png)
-![screenshot 259](https://cloud.githubusercontent.com/assets/16289294/25417851/d31d852e-2a0c-11e7-880a-0ae2c0d62606.png)
-![screenshot 256](https://cloud.githubusercontent.com/assets/16289294/25417849/d2ef2d14-2a0c-11e7-9ada-f95d66cbbc5f.png)
-![screenshot 257](https://cloud.githubusercontent.com/assets/16289294/25417846/d2ec1eda-2a0c-11e7-8b07-6bae94f90804.png)
-![screenshot 258](https://cloud.githubusercontent.com/assets/16289294/25417850/d2f18e92-2a0c-11e7-8c35-0a4e33145fab.png)
+![1](https://user-images.githubusercontent.com/16289294/29679605-b3f2cc00-891f-11e7-95ae-2bc8f25181d4.PNG)
+![4](https://user-images.githubusercontent.com/16289294/29679615-b9a5308e-891f-11e7-9f66-3fbe3d07eaf5.JPG)
+![5](https://user-images.githubusercontent.com/16289294/29679619-bbda008c-891f-11e7-87c6-b4ded8df9644.JPG)
+![6](https://user-images.githubusercontent.com/16289294/29679623-bdba01e0-891f-11e7-8865-0b7a261f3914.JPG)
+![8](https://user-images.githubusercontent.com/16289294/29679625-bf87ee38-891f-11e7-995f-9b1c364c6461.JPG)
+![capture](https://user-images.githubusercontent.com/16289294/29679650-d3d45070-891f-11e7-995a-e0568e680ebf.PNG)
 
