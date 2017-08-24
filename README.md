@@ -30,4 +30,7 @@ HTMl , CSS, BOOTSTRAP, TYPESCRIPT<br/>
 ![6](https://user-images.githubusercontent.com/16289294/29679623-bdba01e0-891f-11e7-8865-0b7a261f3914.JPG)
 ![8](https://user-images.githubusercontent.com/16289294/29679625-bf87ee38-891f-11e7-995f-9b1c364c6461.JPG)
 ![capture](https://user-images.githubusercontent.com/16289294/29679650-d3d45070-891f-11e7-995a-e0568e680ebf.PNG)
+![13](https://user-images.githubusercontent.com/16289294/29681938-f5ce3ec8-8926-11e7-9626-ed5006f18c4e.JPG)
+![10](https://user-images.githubusercontent.com/16289294/29681939-f854d846-8926-11e7-8b6a-1230a3396078.JPG)
+![11](https://user-images.githubusercontent.com/16289294/29681944-fb3839f4-8926-11e7-9d3e-8fa9c3ba6888.JPG)
 
